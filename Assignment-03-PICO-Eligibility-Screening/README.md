@@ -27,7 +27,7 @@ EndNote, Rayyan, PICO/PECO, PRISMA
 
 ## Evidence
 
-[View the completed assignment report](./Assignment-03-Report.pdf)
+[View the completed assignment report](https://github.com/hrghahramani/Systematic-Review-Meta-Analysis-Training/blob/main/Assignment-03-PICO-Eligibility-Screening/S%20R%20Department.Systematic%20Review.S3.Tasks.pdf)
 
 ## Status
 
