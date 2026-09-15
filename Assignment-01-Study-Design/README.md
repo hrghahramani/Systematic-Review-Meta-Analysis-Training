@@ -27,7 +27,7 @@ PubMed, MeSH, PICO/PECO, systematic review literature
 
 ## Evidence
 
-[View the completed assignment report]([Assignment-01-Study-Design/Review department.systematic review.S1.Tasks.pdf](https://github.com/hrghahramani/Systematic-Review-Meta-Analysis-Training/blob/main/Assignment-01-Study-Design/Review%20department.systematic%20review.S1.Tasks.pdf))
+[View the completed assignment report]((https://github.com/hrghahramani/Systematic-Review-Meta-Analysis-Training/blob/main/Assignment-01-Study-Design/Review%20department.systematic%20review.S1.Tasks.pdf))
 
 ## Status
 
