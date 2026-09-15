@@ -26,7 +26,8 @@ PubMed, Scopus, Web of Science, Embase, PsycINFO, EndNote, Rayyan, MeSH, Emtree
 
 Evidence
 
-View the completed assignment report
+[View the completed assignment report]([./Assignment-02-Report.pdf](https://github.com/hrghahramani/Systematic-Review-Meta-Analysis-Training/blob/main/Assignment-02-Literature-Search-Screening/End%20Not%20%26%20Rayan%20Practice.pdf
+))
 
 Status
 
