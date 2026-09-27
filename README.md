@@ -1,4 +1,4 @@
-# Systematic Review & Meta-Analysis Training
+# Systematic Review Training
 
 ## Overview
 
